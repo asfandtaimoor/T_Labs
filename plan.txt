@@ -1,0 +1,51 @@
+        #--1  HTML
+
+1 > Create main page.
+
+    Component ==>
+
+        i   -   Carousel (favourate books).  
+        ii  -   Create filter like (Liked Books , Gere .....)
+        iii -   Hover Show Giant Discription Panel.
+        iv  -   Review Panel (comment)
+
+2 > Create favourate page.
+
+    Component ==>
+
+        i   -   Carousel (favourate books).  
+        iii -   Hover Show Giant Discription Panel.
+        iv  -   Review Panel (comment)
+
+3 > Create all books page.
+
+    Component ==>
+
+        i   -   Carousel (favourate books).  
+        ii  -   Create filter like (Liked Books , Gere .....)
+        iii -   Hover Show Giant Discription Panel.
+        iv  -   Review Panel (comment)
+
+4 > Create Upcoming books page.
+5 > Review page.
+    
+      Component ==>
+
+       i-Crud
+
+
+
+        #--2  JavaScript
+
+1 > Main page.
+
+  
+    Modules ==>
+
+        i   -   Take data From user and save it to data.json file
+        ii  -   Fetch data from json to Render on the pages  
+        
+
+2 > Data Json 
+
+
